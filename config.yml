@@ -1,0 +1,9 @@
+public: false
+type: "docs"
+tags:
+  - "policy"
+  - "documentation"
+title: "Documentation Site Content Approval Policy"
+description: "Policy for making documentation available"
+pages:
+  - ["Documentation Site Content Approval Policy", "index"]
