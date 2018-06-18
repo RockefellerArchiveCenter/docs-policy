@@ -1,4 +1,4 @@
-# Collection Policy
+# Documentation Site Content Approval Policy
 This policy defines the approval process by which documentation is selected, designated as public or internal, added to docs.rockarch.org, and revised.
 
 ## Accessing the guide
