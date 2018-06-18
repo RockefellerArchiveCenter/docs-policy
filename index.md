@@ -1,3 +1,8 @@
+---
+layout: docs
+title:  "Rockefeller Archive Center Documentation Site Content Approval Policy"
+---
+
 ## Purpose
 
 Rockefeller Archive Center (RAC) documentation consists of the policies, workflows, processes, manuals, plans, and standard forms that are integral to the operations of the RAC and are intended for long-term use. In order for RAC staff to control, use, and share this documentation, the RAC maintains a central platform at docs.rockarch.org. All documentation on the platform is available to RAC staff and select documentation can also be made available to external users. This facilitates transparency and version control of our institutional processes, as well as an opportunity to share archival documentation with the greater archival community and other interested users.
