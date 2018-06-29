@@ -37,7 +37,7 @@ Appropriate documentation will be intended for the long-term use and reference b
 
 * Created by RAC staff. Content that is authored by non-RAC staff can be referenced and linked to within the documentation but should not be hosted and versioned on this platform.
 
-* In a final version that is edited and ready for publication online. Assess the structure of the documentation and edit to optimize online access and use. Use best practices for technical writing, including:
+* Is a final version that is edited and ready for publication online. Assess the structure of the documentation and edit to optimize online access and use. Use best practices for technical writing, including:
 
     * Hierarchy of document headings
 
