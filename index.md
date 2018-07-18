@@ -5,7 +5,7 @@ title:  "Rockefeller Archive Center Documentation Site Content Approval Policy"
 
 ## Purpose
 
-Rockefeller Archive Center (RAC) documentation consists of the policies, workflows, processes, manuals, plans, and standard forms that are integral to the operations of the RAC and are intended for long-term use. In order for RAC staff to control, use, and share this documentation, the RAC maintains a central platform at docs.rockarch.org. All documentation on the platform is available to RAC staff and select documentation can also be made available to external users. This facilitates transparency and version control of our institutional processes, as well as an opportunity to share archival documentation with the greater archival community and other interested users.
+Rockefeller Archive Center (RAC) documentation consists of the policies, workflows, processes, manuals, plans, and standard forms that are integral to the operations of the RAC and are intended for long-term use. In order for RAC staff to control, use, and share this documentation, the RAC maintains a central platform at docs.rockarch.org. All documentation on the platform is available to RAC staff and select documentation can also be made available to external users. This facilitates transparency and version control of our institutional processes, as well as an opportunity to share archival documentation with the larger archival community and other interested users.
 
 This policy defines the approval process by which documentation is selected, designated as internal or public, added to docs.rockarch.org, and revised.
 
@@ -37,7 +37,7 @@ Appropriate documentation will be intended for the long-term use and reference b
 
 * Created by RAC staff. Content that is authored by non-RAC staff can be referenced and linked to within the documentation but should not be hosted and versioned on this platform.
 
-* Is a final version that is edited and ready for publication online. Assess the structure of the documentation and edit to optimize online access and use. Use best practices for technical writing, including:
+* A final version that is edited and ready for publication online. Assess the structure of the documentation and edit to optimize online access and use. Use best practices for technical writing, including:
 
     * Hierarchy of document headings
 
@@ -49,7 +49,7 @@ Appropriate documentation will be intended for the long-term use and reference b
 
 ## Revising or Removing Documentation
 
-It is expected and encouraged that documentation be reviewed and revised periodically to assure that it is accurate and up-to-date.
+It is expected and encouraged that documentation be reviewed and revised periodically to ensure that it is accurate and up-to-date.
 
 * Proposed revisions to and/or removal of content must be approved by the RAC Assistant Director for the relevant function area.
 
