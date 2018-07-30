@@ -29,7 +29,7 @@ Documentation containing information that the RAC determines should be accessed 
 
 ## Adding New Documentation
 
-For a step-by-step guide to adding and revising documentation in docs.rockarch.org, including conversion of content to the Markdown format, editing in Markdown, and adding to an RAC GitHub repository, refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](docs-guide/).
+For a step-by-step guide to adding and revising documentation in docs.rockarch.org, including conversion of content to the Markdown format, editing in Markdown, and adding to an RAC GitHub repository, refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](/docs-guide/).
 
 Appropriate documentation will be intended for the long-term use and reference by RAC staff and, when publicly available, allied professionals and other interested users. The content is:
 
@@ -54,4 +54,4 @@ It is expected and encouraged that documentation be reviewed and revised periodi
 
 * The decision to convert either from internal-only documentation to public-facing documentation, or from public-facing to internal-only, must also be approved by the Director of Archives and the President.
 
-Once content has been approved for revision or removal, changes should be submitted through a pull request in the corresponding GitHub repository. The pull request will be reviewed by the relevant Assistant Director and the Director of Archives, as necessary. If a determination is made to either convert documentation from public to private, or to remove it completely, the Assistant Director for Digital Programs or any other RAC employee with administrative access to the RAC GitHub account should be notified to enable this action. Refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](docs-guide/) for technical instructions on how to revise documentation that has already been added to docs.rockarch.org.
+Once content has been approved for revision or removal, changes should be submitted through a pull request in the corresponding GitHub repository. The pull request will be reviewed by the relevant Assistant Director and the Director of Archives, as necessary. If a determination is made to either convert documentation from public to private, or to remove it completely, the Assistant Director for Digital Programs or any other RAC employee with administrative access to the RAC GitHub account should be notified to enable this action. Refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](/docs-guide/) for technical instructions on how to revise documentation that has already been added to docs.rockarch.org.
