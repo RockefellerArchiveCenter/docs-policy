@@ -16,9 +16,7 @@ All documentation, whether internal-facing or public-facing, must be approved fo
 ## Procedure for Proposing Documentation
 
 * Identify documentation or policies that are appropriate to add to the platform. Good candidates define RAC policies and procedures, serve as a reference resource for essential RAC operations, and are intended for long-term use. To be considered for the platform, all policies must have been finalized and approved by the relevant Assistant Director, the Director of Archives, and the President as RAC policies.
-
 * Propose addition of the documentation or policy. Content must be approved by the RAC Assistant Director for the relevant function area.
-
 * Decide if the documentation will be internal to the RAC or public. The Director of Archives and President must approve all public content.
 
 ## Internal v. Public
@@ -32,13 +30,9 @@ Documentation containing information that the RAC determines should be accessed 
 For a step-by-step guide to adding and revising documentation in docs.rockarch.org, including conversion of content to the Markdown format, editing in Markdown, and adding to an RAC GitHub repository, refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](/docs-guide/).
 
 Appropriate documentation will be intended for the long-term use and reference by RAC staff and, when publicly available, allied professionals and other interested users. The content is:
-
 * The most up-to-date version of the documentation that is available.
-
 * Created by RAC staff. Content that is authored by others can be referenced and linked to within the documentation but should not be hosted and versioned on this platform.
-
 * A version that is ready for publication online. Assess the structure of the documentation and edit to optimize online access and use. Use best practices for technical writing, including:
-
     * Hierarchy of document headings
     * Clarity and simplicity
     * Consistent formatting
@@ -47,11 +41,8 @@ Appropriate documentation will be intended for the long-term use and reference b
 ## Revising or Removing Documentation
 
 It is expected and encouraged that documentation be reviewed and revised periodically to ensure that it is accurate and up-to-date.
-
 * Proposed revisions to and/or removal of content must be approved by the RAC Assistant Director for the relevant function area.
-
 * Substantive changes, as determined by the Assistant Director, must also be approved by the Director of Archives. Minor technical revisions do not need to be approved by the Director of Archives
-
 * The decision to convert either from internal-only documentation to public-facing documentation, or from public-facing to internal-only, must also be approved by the Director of Archives and the President.
 
 Once content has been approved for revision or removal, changes should be submitted through a pull request in the corresponding GitHub repository. The pull request will be reviewed by the relevant Assistant Director and the Director of Archives, as necessary. If a determination is made to either convert documentation from public to private, or to remove it completely, the Assistant Director for Digital Programs or any other RAC employee with administrative access to the RAC GitHub account should be notified to enable this action. Refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](/docs-guide/) for technical instructions on how to revise documentation that has already been added to docs.rockarch.org.
