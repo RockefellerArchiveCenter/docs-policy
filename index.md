@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Documentation Site Content Approval Policy"
+title:  "Documentation Site Content Approval Policy"
 ---
 
 ## Purpose
