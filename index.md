@@ -11,13 +11,13 @@ This policy defines the approval process by which documentation is selected, des
 
 ## Policy Statement
 
-All documentation, whether internal-facing or public-facing, must be approved for addition to docs.rockarch.org by the RAC Assistant Director for the relevant function area. Documentation that is made publicly available must also be approved by the Director of Archives and the President. All public content is shared under a[ Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) (CC0) public domain dedication, and all project-associated code is made available on the RAC organizational GitHub under an[ MIT License](https://opensource.org/licenses/MIT).
+All documentation, whether internal-facing or public-facing, must be approved for addition to docs.rockarch.org by the RAC Assistant Director for the relevant function area. Documentation that is made publicly available must also be approved by the Program Director and the President. All public content is shared under a [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) (CC0) public domain dedication, and all project-associated code is made available on the RAC organizational GitHub under an [MIT License](https://opensource.org/licenses/MIT).
 
 ## Procedure for Proposing Documentation
 
-* Identify documentation or policies that are appropriate to add to the platform. Good candidates define RAC policies and procedures, serve as a reference resource for essential RAC operations, and are intended for long-term use. To be considered for the platform, all policies must have been finalized and approved by the relevant Assistant Director, the Director of Archives, and the President as RAC policies.
+* Identify documentation or policies that are appropriate to add to the platform. Good candidates define RAC policies and procedures, serve as a reference resource for essential RAC operations, and are intended for long-term use. To be considered for the platform, all policies must have been finalized and approved by the relevant Assistant Director, the Program Director, and the President as RAC policies.
 * Propose addition of the documentation or policy. Content must be approved by the RAC Assistant Director for the relevant function area.
-* Decide if the documentation will be internal to the RAC or public. The Director of Archives and President must approve all public content.
+* Decide if the documentation will be internal to the RAC or public. The Program Director and President must approve all public content.
 
 ## Internal v. Public
 
@@ -42,7 +42,7 @@ Appropriate documentation will be intended for the long-term use and reference b
 
 It is expected and encouraged that documentation be reviewed and revised periodically to ensure that it is accurate and up-to-date.
 * Proposed revisions to and/or removal of content must be approved by the RAC Assistant Director for the relevant function area.
-* Substantive changes, as determined by the Assistant Director, must also be approved by the Director of Archives. Minor technical revisions do not need to be approved by the Director of Archives
-* The decision to convert either from internal-only documentation to public-facing documentation, or from public-facing to internal-only, must also be approved by the Director of Archives and the President.
+* Substantive changes, as determined by the Assistant Director, must also be approved by the Program Director. Minor technical revisions do not need to be approved by the Director.
+* The decision to convert either from internal-only documentation to public-facing documentation, or from public-facing to internal-only, must also be approved by the Program Director and the President.
 
-Once content has been approved for revision or removal, changes should be submitted through a pull request in the corresponding GitHub repository. The pull request will be reviewed by the relevant Assistant Director and the Director of Archives, as necessary. If a determination is made to either convert documentation from public to private, or to remove it completely, the Assistant Director for Digital Programs or any other RAC employee with administrative access to the RAC GitHub account should be notified to enable this action. Refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](/docs-guide/) for technical instructions on how to revise documentation that has already been added to docs.rockarch.org.
+Once content has been approved for revision or removal, changes should be submitted through a pull request in the corresponding GitHub repository. The changes will be reviewed by the relevant Assistant Director and the Program Director, as necessary. If a determination is made to either convert documentation from public to private, or to remove it completely, the Assistant Director for Digital Programs or any other RAC employee with administrative access to the RAC GitHub account should be notified to enable this action. Refer to the [Rockefeller Archive Center Documentation Site Guide to Managing Content](/docs-guide/) for technical instructions on how to revise documentation that has already been added to docs.rockarch.org.
