@@ -2,7 +2,7 @@
 This policy defines the approval process by which documentation is selected, designated as public or internal, added to docs.rockarch.org, and revised.
 
 ## Accessing the policy
-This content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
+This content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
 
 ## License
 
